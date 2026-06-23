@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import "./styles.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* Anchor link offset — clears sticky banner + fixed nav */
+section[id] {
+  scroll-margin-top: 105px;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-sans), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display), Georgia, serif;
+  }
+}

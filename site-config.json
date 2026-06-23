@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Vic Cheung | Vancouver Real Estate",
+    "description": "Buy with a builder's mind. Invest with a designer's eye. Vic Cheung, REALTOR® — Team Uphaus | Rent It Furnished Realty, Vancouver BC."
+  },
+  "theme": {
+    "colors": {
+      "bg": "#F8F8F8",
+      "text": "#0A0A0A",
+      "textMuted": "#4A4A4A",
+      "textSubtle": "#6A6A6A",
+      "accent": "#0A0A0A",
+      "border": "#E0E0E0",
+      "darkBg": "#0A0A0A",
+      "darkText": "#F8F8F8",
+      "footerBg": "#050505"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    }
+  },
+  "designer": {
+    "name": "Alexandria Braniff",
+    "email": "hello@alexandriabraniff.com"
+  },
+  "agent": {
+    "name": "Vic Cheung",
+    "title": "REALTOR®",
+    "brokerage": "TEAM UPHAUS | RENT IT FURNISHED REALTY",
+    "location": "VANCOUVER",
+    "tagline": "Buy with a builder's mind. Invest with a designer's eye.",
+    "subheadline": "17 years spanning design, construction, and Vancouver's most prestigious developments.",
+    "photo": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1000&q=85",
+    "about": {
+      "label": "ABOUT VIC",
+      "heading": "Three disciplines.<br />One perspective.",
+      "paragraphs": [
+        "Vic Cheung brings a rare combination of expertise to every transaction: the structural eye of a builder, the spatial intelligence of an interior designer, and the financial rigour of a development manager.",
+        "With a background as Senior Designer at Northland Properties (Sutton Place Hotels) and Development Manager at Pinnacle International, Vic has spent 17 years navigating complex projects — so your property purchase is in experienced hands.",
+        "PMP-certified and backed by $5M in liability coverage through My Project Team Management Corp., Vic offers unmatched post-purchase support through every stage of renovation and delivery."
+      ],
+      "disciplines": [
+        { "label": "Interior Design", "icon": "◇" },
+        { "label": "Construction", "icon": "◆" },
+        { "label": "Development", "icon": "◈" }
+      ]
+    },
+    "credentials": [
+      {
+        "value": "17+",
+        "label": "Years Experience",
+        "detail": "Interior design, construction, and development across Vancouver's most prestigious projects."
+      },
+      {
+        "value": "PMP",
+        "label": "Certified",
+        "detail": "Globally recognised certification held by fewer than 1% of real estate agents."
+      },
+      {
+        "value": "$5M",
+        "label": "Liability Coverage",
+        "detail": "Full coverage through My Project Team Management Corp. from purchase through to delivery."
+      }
+    ],
+    "contact": {
+      "phone": "(236) 707-8262",
+      "email": "vic@vancity.realestate",
+      "address": "#110-1020 Mainland Street\nVancouver, BC V6B 2T5"
+    },
+    "social": {
+      "instagram": "#",
+      "youtube": "#",
+      "facebook": "#",
+      "twitter": "#"
+    },
+    "googleReviewsUrl": "https://www.google.com/search?q=Vic+Cheung+Realtor+Vancouver+reviews"
+  },
+  "nav": {
+    "links": [
+      { "label": "About", "href": "/#about" },
+      { "label": "Listings", "href": "/listings" },
+      { "label": "Neighbourhoods", "href": "/#neighbourhoods" },
+      { "label": "Testimonials", "href": "/#testimonials" }
+    ]
+  },
+  "hero": {
+    "cta": {
+      "primary": { "label": "GET IN TOUCH", "href": "/#contact" },
+      "secondary": { "label": "VIEW LISTINGS", "href": "/#listings" }
+    }
+  },
+  "services": {
+    "label": "SERVICES",
+    "heading": "Three disciplines.",
+    "headingEmphasis": "One advantage.",
+    "enquireHref": "/#contact",
+    "items": [
+      {
+        "number": "01",
+        "title": "Buyer Representation",
+        "subtitle": "Buying with a builder's eye",
+        "description": "Vic evaluates every property the way a developer would — structural integrity, permitting history, hidden costs, and true market value. You'll never overpay or miss a problem.",
+        "detail": "With 17+ years in design and construction, he identifies issues other agents miss and negotiates from a position of real knowledge.",
+        "tags": ["Due Diligence", "Negotiation", "Construction Review"],
+        "icon": "◇"
+      },
+      {
+        "number": "02",
+        "title": "Investment Advisory",
+        "subtitle": "Developer-grade financial analysis",
+        "description": "Full ROI modelling, furnished rental yield projections, and renovation cost estimates — before you put in an offer. Investment decisions backed by real numbers.",
+        "detail": "As Development Manager at Pinnacle International, Vic ran financial analysis on multi-million dollar projects.",
+        "tags": ["ROI Modelling", "Furnished Rentals", "Market Analysis"],
+        "icon": "◆"
+      },
+      {
+        "number": "03",
+        "title": "Project Management",
+        "subtitle": "Renovation and delivery, end-to-end",
+        "description": "Through My Project Team Management Corp., Vic manages your renovation from permit to final walkthrough — on time and on budget. PMP-certified, $5M covered.",
+        "detail": "Delivered complex renovation and fit-out projects across Vancouver's most demanding residential and commercial spaces.",
+        "tags": ["PMP Certified", "$5M Coverage", "Full Delivery"],
+        "icon": "◈"
+      }
+    ]
+  },
+  "neighborhoods": {
+    "label": "MARKET COVERAGE",
+    "heading": "The",
+    "headingEmphasis": "Neighbourhoods.",
+    "backgroundImage": "/vancouver-skyline.jpg",
+    "ctaLabel": "EXPLORE WITH VIC →",
+    "ctaHref": "#contact",
+    "quote": {
+      "text": "Vancouver's market rewards those who understand it from the inside.",
+      "attribution": "VIC CHEUNG — REALTOR®"
+    },
+    "items": [
+      { "name": "Coal Harbour", "description": "Waterfront luxury with marina views" },
+      { "name": "Yaletown", "description": "Urban chic warehouse conversions" },
+      { "name": "Kitsilano", "description": "Beach lifestyle meets boutique living" },
+      { "name": "West Vancouver", "description": "Prestige estates, ocean panoramas" },
+      { "name": "North Vancouver", "description": "Mountain setting, city access" },
+      { "name": "Burnaby", "description": "High-rise investment opportunities" }
+    ]
+  },
+  "testimonials": {
+    "googleReviewsUrl": "https://www.google.com/search?q=Vic+Cheung+Realtor+Vancouver+reviews",
+    "items": [
+      {
+        "name": "Ali Golriz",
+        "date": "a month ago",
+        "quote": "Vic's knowledge of construction gave us a real edge in evaluating properties. We avoided two bad deals and found exactly what we were looking for.",
+        "stars": 5
+      },
+      {
+        "name": "Jillian Bice",
+        "date": "2 months ago",
+        "quote": "Incredibly helpful and professional throughout the entire process. Vic was always responsive and made sure we understood every step.",
+        "stars": 5
+      },
+      {
+        "name": "Vancouver Client",
+        "date": "3 months ago",
+        "quote": "Vic's financial modelling on the rental yield was what sold us. He ran full projections before we even put in an offer. That level of detail is rare.",
+        "stars": 5
+      }
+    ]
+  },
+  "listings": {
+    "featuredLabel": "FEATURED PROPERTIES",
+    "featuredHeading": "Curated for the\ndiscerning buyer.",
+    "pageHeaderImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+    "pageSubheadline": "Properties evaluated with a builder's eye and a designer's sensibility. Contact for current availability and pricing.",
+    "items": [
+      {
+        "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+        "price": "$1,850,000",
+        "address": "1201 - 1033 Marinaside Cres",
+        "neighbourhood": "Coal Harbour",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "1,240",
+        "status": "Active",
+        "label": "THE HARRISON"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+        "price": "$2,100,000",
+        "address": "3205 - 939 Homer Street",
+        "neighbourhood": "Yaletown",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "1,680",
+        "status": "Active",
+        "label": "SUSSEX HIGH-LINE"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+        "price": "$975,000",
+        "address": "801 - 1480 Howe Street",
+        "neighbourhood": "Downtown",
+        "beds": 1,
+        "baths": 1,
+        "sqft": "680",
+        "status": "Sold",
+        "label": "THE PACIFIC"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+        "price": "$3,200,000",
+        "address": "2402 - 1499 W Pender Street",
+        "neighbourhood": "Coal Harbour",
+        "beds": 3,
+        "baths": 3,
+        "sqft": "2,150",
+        "status": "Active",
+        "label": "HARBOUR CENTRE"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800&q=80",
+        "price": "$1,450,000",
+        "address": "1108 - 1238 Burrard Street",
+        "neighbourhood": "West End",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "1,020",
+        "status": "Active",
+        "label": "BURRARD LANDING"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80",
+        "price": "$1,750,000",
+        "address": "301 - 2118 W 1st Avenue",
+        "neighbourhood": "Kitsilano",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "1,380",
+        "status": "Sold",
+        "label": "KITS BEACH RESIDENCES"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+        "price": "$4,500,000",
+        "address": "1 - 2688 Marine Drive",
+        "neighbourhood": "West Vancouver",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "4,200",
+        "status": "Active",
+        "label": "DUNDARAVE ESTATE"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&q=80",
+        "price": "$1,250,000",
+        "address": "2201 - 689 Abbott Street",
+        "neighbourhood": "Crosstown",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "980",
+        "status": "Sold",
+        "label": "THE ESPANA"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+        "price": "$2,650,000",
+        "address": "1502 - 1499 W Georgia Street",
+        "neighbourhood": "West End",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "1,820",
+        "status": "Active",
+        "label": "GEORGIA TOWERS"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Buy with a builder's mind. Invest with a designer's eye. Serving Vancouver and surrounding areas.",
+    "legal": "REALTOR® is a trademark of CREA.",
+    "columns": [
+      {
+        "heading": "Navigate",
+        "links": [
+          { "label": "About", "href": "/#about" },
+          { "label": "Services", "href": "/#services" },
+          { "label": "Testimonials", "href": "/#testimonials" },
+          { "label": "Contact", "href": "/#contact" }
+        ]
+      },
+      {
+        "heading": "Services",
+        "links": [
+          { "label": "Buyer Representation", "href": "/#services" },
+          { "label": "Investment Advisory", "href": "/#services" },
+          { "label": "Project Management", "href": "/#services" }
+        ]
+      },
+      {
+        "heading": "Connect",
+        "links": [
+          { "label": "Instagram", "href": "#" },
+          { "label": "YouTube", "href": "#" },
+          { "label": "Facebook", "href": "#" },
+          { "label": "Twitter", "href": "#" }
+        ]
+      }
+    ]
+  }
+}
